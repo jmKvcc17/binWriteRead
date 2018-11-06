@@ -1,0 +1,6 @@
+C:\Users\jmeachum20\Documents\CS3310\binaryFilePrac\binaryFilePrac\bin\Debug\binaryFilePrac.exe.config
+C:\Users\jmeachum20\Documents\CS3310\binaryFilePrac\binaryFilePrac\bin\Debug\binaryFilePrac.exe
+C:\Users\jmeachum20\Documents\CS3310\binaryFilePrac\binaryFilePrac\bin\Debug\binaryFilePrac.pdb
+C:\Users\jmeachum20\Documents\CS3310\binaryFilePrac\binaryFilePrac\obj\Debug\binaryFilePrac.csprojResolveAssemblyReference.cache
+C:\Users\jmeachum20\Documents\CS3310\binaryFilePrac\binaryFilePrac\obj\Debug\binaryFilePrac.exe
+C:\Users\jmeachum20\Documents\CS3310\binaryFilePrac\binaryFilePrac\obj\Debug\binaryFilePrac.pdb
